@@ -40,7 +40,7 @@ BuildRequires:	jdk-current
 BuildRequires:	atomic-devel
 BuildRequires:	quadmath-devel
 %endif
-BuildRequires:	szip-devel
+#BuildRequires:	szip-devel
 BuildRequires:	pkgconfig(krb5)
 BuildRequires:	pkgconfig(libcurl)
 BuildRequires:	pkgconfig(libjpeg)
